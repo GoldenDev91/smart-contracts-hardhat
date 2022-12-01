@@ -1,0 +1,15 @@
+# dotenv
+.env
+
+# Hardhat temporary files
+cache
+artifacts
+
+# node_modules
+node_modules
+
+# yarn lock
+yarn.lock
+
+# npm lock
+package-lock.json
