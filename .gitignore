@@ -2,11 +2,11 @@
 .env
 
 # Hardhat temporary files
-cache
-artifacts
+cache/
+artifacts/
 
 # node_modules
-node_modules
+node_modules/
 
 # yarn lock
 yarn.lock
